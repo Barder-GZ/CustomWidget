@@ -1,0 +1,5 @@
+include ':native'
+include ':myPlugin'
+include ':OpenGL'
+include ':app'
+rootProject.name = "CustomWidget"
